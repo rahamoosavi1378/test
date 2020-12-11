@@ -1,1 +1,3 @@
 start project ...
+
+project "To do list" => localstorage & javascript  
